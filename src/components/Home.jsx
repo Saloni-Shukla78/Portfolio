@@ -1,6 +1,6 @@
 import React from 'react'
 import { ReactTyped} from "react-typed";
-import pic from "../../public/saloni_3.jpeg";
+import pic from "../assets/saloni_3.jpeg";
 import { FaLinkedin } from "react-icons/fa";
 import { BsTelegram } from "react-icons/bs";
 import { IoLogoGithub } from "react-icons/io";
