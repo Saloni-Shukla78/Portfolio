@@ -11,32 +11,32 @@ function Project() {
         <div className='px-7 py-20 bg-gray-950 rounded-md my-20'>
           <div className="flex flex-wrap justify-center gap-10">
             <Card
-              image="./src/assets/image1.jpg"
+              image="./image1.jpg"
               title="Ecommerce"
               link='https://saloni-shukla78.github.io/Ecommerce/'
             />
             <Card
-              image="./src/assets/image2.jpg"
+              image="./image2.jpg"
               title="Expense-Tracker"
               link='https://saloni-shukla78.github.io/Expense-tracker/'
             />
             <Card
-              image="./src/assets/image3.png"
+              image="./image3.png"
               title="Calculator"
               link="https://saloni-shukla78.github.io/Calculator/"
             />
             <Card
-              image="./src/assets/image4.jpg"
+              image="./image4.jpg"
               title="Netflix-Clone"
               link="https://saloni-shukla78.github.io/Netflix-Clone/"
             />
             <Card
-              image="./src/assets/image5.jpg"
+              image="./image5.jpg"
               title="Rock-Paper-Scissor"
               link="https://saloni-shukla78.github.io/Rock-Paper-Scissor/"
             />
             <Card
-              image="./src/assets/image6.jpg"
+              image="./image6.jpg"
               title="My-Portfolio"
               link="https://saloni-shukla78.github.io/My-Portfolio-/"
             />
